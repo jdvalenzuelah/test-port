@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Reciclaje UVG",
+    "description": "Portal web opensource para incentivar el reciclaje en lugares publicos. Creacion de la infraestructura completa, que incluye frontend (Vue + Quasar Framework), backend (Node.js + Express.js), y dispositivos embedded (Python)",
+    "reference": null,
+    "repository": "githublink"
+  }
+]
